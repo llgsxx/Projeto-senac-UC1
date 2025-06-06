@@ -74,15 +74,14 @@ nav a {
   font-weight: bold;
   font-size: 18px;
   padding: 14px 18px;
-  border-radius: 4px 4px 0 0;
-  transition: background 0.2s, transform 0.2s;
   display: block;
+  transition: color 0.3s ease, transform 0.3s ease;
 }
 
 nav a:hover,
 nav a.active {
-  background-color: var(--primary-dark);
-  transform: scale(1.07);
+  color: var(--primary-dark);
+  transform: scale(1.08);
 }
 
 /* --- CONTEÚDO PRINCIPAL / CONTAINERS --- */
