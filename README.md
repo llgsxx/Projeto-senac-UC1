@@ -1,6 +1,6 @@
 # Projeto Senac - UC1: Front-End (Turma Noturno)
 
-Este projeto foi desenvolvido por alunas da **Turma de Front-End Noturno** do **Senac**, como parte da **Unidade Curricular 1 (UC1)**. Cada grupo ficou responsável por apresentar um tema relacionado à construção de interfaces, e este repositório reúne todas essas apresentações em um único projeto unificado e funcional.
+Este projeto foi desenvolvido por alunos da **Turma de Front-End Noturno** do **Senac**, como parte da **Unidade Curricular 1 (UC1)**. Cada grupo ficou responsável por apresentar um tema relacionado à construção de interfaces, e este repositório reúne todas essas apresentações em um único projeto unificado e funcional.
 
 ## 🎯 Temas abordados
 
