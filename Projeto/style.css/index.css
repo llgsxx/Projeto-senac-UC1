@@ -119,6 +119,8 @@ article ul,
 article ol {
   margin-bottom: 16px;
   font-size: 17px;
+  align-items: center;
+  text-align: center;
 }
 
 section ul,
